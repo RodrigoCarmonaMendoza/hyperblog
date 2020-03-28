@@ -2,4 +2,6 @@ Esta es la historia de Rodrigo Carmona Mendoza
 
 Inicia el viernes 13 de marzo de 2020
 
+El usuario Clon acaba de realizar el primer commit
+
 Mañana nos enfocaremos en su vida laboral
