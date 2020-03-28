@@ -2,6 +2,6 @@ Esta es la historia de Rodrigo Carmona Mendoza
 
 Inicia el viernes 13 de marzo de 2020
 
-El usuario Clon acaba de realizar el primer commit
+El usuario Clon es una persona que contribuye a éste proyecto open source 
 
 Mañana nos enfocaremos en su vida laboral
